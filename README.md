@@ -98,17 +98,7 @@
 
 <details>
   <summary>🔥 <strong>My Github Stats</strong></summary>
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bouzenaali&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
- </div>
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bouzenaali&show_icons=true&theme=aura&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouzenaali&layout=compact&langs_count=8&theme=aura&hide_border=true" height="160" alt="languages graph"  />
- </div>
-
+  # SOON
 </details>
 
 
