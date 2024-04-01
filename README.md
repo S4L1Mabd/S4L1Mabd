@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋  I'm Salim ABDOUNE</h1>
+<h1 align="center">Hi 👋  I'm Salim ABDOUNE</h1>
 
 ###
 <!-- 
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Computer+science+student;CTF+PLAYER+;Reverse+engineer+;learning+Digital+forensics" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%00FF00&center=true&vCenter=true&width=600&lines=Computer+science+student;CTF+PLAYER+;Reverse+engineer+;learning+Digital+forensics" alt="Typing SVG">
   </a>
 </p>
 
