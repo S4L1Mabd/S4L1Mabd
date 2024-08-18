@@ -42,15 +42,6 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=messaoudi-belkacem&show_icons=true&theme=transparent)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=messaoudi-belkacem&show_icons=true&theme=transparent)
-
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=messaoudi-belkacem&theme=transparent)
-
-
-<img src="https://raw.githubusercontent.com/bouzenaali/bouzenaali/blob/output/snake.svg" alt="Snake animation" />
- -->
 
 
 
