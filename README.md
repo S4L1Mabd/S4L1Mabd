@@ -1,4 +1,4 @@
-[![MasterHead](./masterhead.png)](https://www.linkedin.com/in/belkacem-messaoudi-a95591230/)
+[![MasterHead](./masterhead.png)](https://x.com/salim_rev/header_photo)
 
 <h1 align="center">Hi 👋, I'm Salim ABDOUNE</h1>
 <h3 align="center">an Algerian entry Level Malware Analyst & Golang developer</h3>
@@ -48,8 +48,6 @@
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=S4L1Mabd&theme=transparent)
 
 
-<img src="https://raw.githubusercontent.com/bouzenaali/bouzenaali/blob/output/snake.svg" alt="Snake animation" />
- -->
 
 
 
