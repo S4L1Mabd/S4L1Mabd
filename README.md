@@ -41,6 +41,18 @@
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="python" width="40" height="40"/>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=S4L1Mabd&show_icons=true&theme=transparent)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S4L1Mabd&show_icons=true&theme=transparent)
+
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=S4L1Mabd&theme=transparent)
+
+
+<img src="https://raw.githubusercontent.com/bouzenaali/bouzenaali/blob/output/snake.svg" alt="Snake animation" />
+ -->
+
+
+
 
 
 
