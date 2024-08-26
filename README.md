@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="python" width="40" height="40"/>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,vscode,git,linux,docker,bash,figma" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,mysql,vscode,git,linux,docker,bash,figma" alt="My Skills" />
   </a>
 </p>
 
