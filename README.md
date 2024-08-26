@@ -39,6 +39,9 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="python" width="40" height="40"/>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,vscode,git,linux,docker,bash,figma" alt="My Skills" />
+  </a>
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=S4L1Mabd&show_icons=true&theme=transparent)
