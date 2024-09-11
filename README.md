@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%F0E68C&center=true&vCenter=true&width=1000&lines=Azuul in My Home+You can find everthing about malwares " alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%F0E68C&center=true&vCenter=true&width=1000&lines=Azuul+in+My+Home+You+can+find+everthing+about+malwares" alt="Typing SVG">
   </a>
 </p>
 
