@@ -13,7 +13,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Salim ABDOUNE</h1>
-<h3 align="center">an Algerian entry Level Malware Analyst & Golang developer</h3>
+<h3 align="center"> DFIR/ISMS Specialist </h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=S4L1Mabd&label=Profile%20views&color=0e75b6&style=flat" alt="S4L1Mabd" /> 
